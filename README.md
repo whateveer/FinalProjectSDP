@@ -176,6 +176,7 @@ _Screenshot 10 Concrete Product_
 **PostreSQL Database**
 
   
+<img width="506" alt="ERD" src="https://github.com/whateveer/FinalProjectSDP/assets/66480258/ca588b09-ad43-497e-933d-73f1984e3726">
 
 _Entity Relationship Diagram_
 
